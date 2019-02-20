@@ -1,0 +1,53 @@
+{
+  "Red": [
+    "#include",
+    "#define",
+    "*"
+  ],
+  "Blue": [
+    "private",
+    "public",
+    "protected",
+    "static",
+    "final",
+    "volatile",
+    "void",
+    "default"
+  ],
+  "Purple": [
+    "return",
+    "new",
+    "delete",
+    "try",
+    "catch",
+    "goto",
+    "case",
+    "enum",
+    "throw",
+    "const",
+    "continue",
+    "switch",
+    "do",
+    "if",
+    "if else",
+    "else",
+    "true",
+    "false",
+    "NULL",
+    "this",
+    "int",
+    "long",
+    "short ",
+    "float",
+    "double",
+    "char",
+    "for",
+    "while",
+    "break",
+    "final",
+    "class"
+  ],
+  "comment":["//"],
+  "multi-comment":["/*", "*/"],
+  "string":["\"", "'"]
+}

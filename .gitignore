@@ -1,0 +1,42 @@
+ # Compiled files
+*.class
+
+# Log files
+*.log
+
+# Visual Studio Code files
+/.vscode/*
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Intellij Configuration files
+/.idea/*
+/.settings/*
+
+# Windows Gradle Cache fils
+/caches/*
+/daemon/*
+/native/*
+/wrapper/*
+
+# Gradle local cache
+/.gradle/*
+
+# Genrated binary files
+/out/*
+/bin/*
+/build/*
+
+# Mac OS X spotlight file
+.DS_Store
+
+# Eclipse Configuration files
+.classpath
+.project
+/bin/*
