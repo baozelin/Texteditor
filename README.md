@@ -1,5 +1,3 @@
-# ser515asu
-
 ## Source Set:
 ``` shell
 /src/main/java
